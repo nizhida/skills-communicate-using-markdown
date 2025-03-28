@@ -6,3 +6,7 @@
 ```
 select * from gv_bas_org
 ``` 
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
